@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ :sunny: Illustrator, Photoshop, Procreate
+
+ :crescent_moon: P5.js, Processing, Python
+
 <!--
 **tedenhere/tedenhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
