@@ -1,3 +1,3 @@
- :sunny: Illustrator, Photoshop, Procreate
+ :sunny: Procreate, Vectornator 
 
- :crescent_moon: P5.js, Processing, Python
+ :crescent_moon: P5.js, Processing
